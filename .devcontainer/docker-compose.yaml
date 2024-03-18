@@ -1,0 +1,11 @@
+version: '3.4'
+services:
+  Robocorp:
+    image: robocorp
+    volumes:
+      - type: bind
+        source: ../
+        target: /home/
+    build:
+      context: ../
+      dockerfile: .devcontainer/Dockerfile

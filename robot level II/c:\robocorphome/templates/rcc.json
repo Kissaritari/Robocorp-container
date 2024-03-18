@@ -1,0 +1,46 @@
+{
+ "tested": [
+  {
+   "version": "v17.18.0",
+   "when": "23.2.2024",
+   "changelog": "https://github.com/robocorp/rcc/blob/master/docs/changelog.md#v17180-date-2322024",
+   "windows": "https://downloads.robocorp.com/rcc/releases/v17.18.0/windows64/rcc.exe",
+   "linux": "https://downloads.robocorp.com/rcc/releases/v17.18.0/linux64/rcc",
+   "macos": "https://downloads.robocorp.com/rcc/releases/v17.18.0/macos64/rcc"
+  },
+  {
+   "version": "v17.12.0",
+   "when": "23.11.2023",
+   "changelog": "https://github.com/robocorp/rcc/blob/master/docs/changelog.md#v17120-date-23112023",
+   "windows": "https://downloads.robocorp.com/rcc/releases/v17.12.0/windows64/rcc.exe",
+   "linux": "https://downloads.robocorp.com/rcc/releases/v17.12.0/linux64/rcc",
+   "macos": "https://downloads.robocorp.com/rcc/releases/v17.12.0/macos64/rcc"
+  },
+  {
+   "version": "v16.5.0",
+   "when": "21.9.2023",
+   "changelog": "https://github.com/robocorp/rcc/blob/master/docs/changelog.md#v1650-date-2192023",
+   "windows": "https://downloads.robocorp.com/rcc/releases/v16.5.0/windows64/rcc.exe",
+   "linux": "https://downloads.robocorp.com/rcc/releases/v16.5.0/linux64/rcc",
+   "macos": "https://downloads.robocorp.com/rcc/releases/v16.5.0/macos64/rcc"
+  }
+ ],
+ "edge": [
+  {
+   "version": "v17.19.0",
+   "when": "11.3.2024",
+   "changelog": "https://github.com/robocorp/rcc/blob/master/docs/changelog.md#v17190-date-1132024",
+   "windows": "https://downloads.robocorp.com/rcc/releases/v17.19.0/windows64/rcc.exe",
+   "linux": "https://downloads.robocorp.com/rcc/releases/v17.19.0/linux64/rcc",
+   "macos": "https://downloads.robocorp.com/rcc/releases/v17.19.0/macos64/rcc"
+  },
+  {
+   "version": "v17.18.1",
+   "when": "4.3.2024",
+   "changelog": "https://github.com/robocorp/rcc/blob/master/docs/changelog.md#v17181-date-432024",
+   "windows": "https://downloads.robocorp.com/rcc/releases/v17.18.1/windows64/rcc.exe",
+   "linux": "https://downloads.robocorp.com/rcc/releases/v17.18.1/linux64/rcc",
+   "macos": "https://downloads.robocorp.com/rcc/releases/v17.18.1/macos64/rcc"
+  }
+ ]
+}

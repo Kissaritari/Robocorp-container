@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/robot level II/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
